@@ -4,9 +4,9 @@ johngong/baidunetdisk:latest
 xhofe/alist:latest
 
 --platform=linux/arm64 portainer/portainer-ce:latest
---platform=linux/arm64 b3log/siyuan:latest
+#--platform=linux/arm64 b3log/siyuan:latest
 --platform=linux/arm64 johngong/baidunetdisk:latest
---platform=linux/arm64 xhofe/alist:latest
+#--platform=linux/arm64 xhofe/alist:latest
 
 
 #nginx
