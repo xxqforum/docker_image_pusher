@@ -3,12 +3,14 @@ b3log/siyuan:latest
 johngong/baidunetdisk:latest
 xhofe/alist:latest
 jonnyan404/mrdoc-alpine:latest
+emqx/emqx:latest
 
 --platform=linux/arm64 portainer/portainer-ce:latest
 --platform=linux/arm64 b3log/siyuan:latest
 --platform=linux/arm64 johngong/baidunetdisk:latest
 --platform=linux/arm64 xhofe/alist:latest
 --platform=linux/arm64 jonnyan404/mrdoc-alpine:latest
+--platform=linux/arm64 emqx/emqx:latest
 
 
 
